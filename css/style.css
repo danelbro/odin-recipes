@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(230,210,185);
+    color: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h2, p, li {
+    font-family: Helvetica, sans-serif;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.description,
+.ingredients,
+.steps,
+.recipes {
+    background-color: rgb(255,240,221);
+}
+
+.description {
+    text-align: center;
+}
+
+.heading {
+    background-color: rgb(230, 185, 130);
+    text-align: center;
+    font-weight: bold;
+}
